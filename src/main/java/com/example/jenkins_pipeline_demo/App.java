@@ -2,7 +2,7 @@ package com.example.jenkins_pipeline_demo;
 
 /**
  * Hello world!
- *
+ * 
  */
 public class App 
 {

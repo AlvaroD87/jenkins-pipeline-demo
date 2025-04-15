@@ -1,5 +1,8 @@
 pipeline {
 	agent any
+	tools{
+		maven 'Maven-Autoinstalado'
+	}
 	stages {
 		stage('Compilación') {
 			steps {
